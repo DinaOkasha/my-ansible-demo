@@ -1,1 +1,2 @@
-#remote servers IPs
+3.254.158.255 ansible_user=ubuntu ansible_ssh_private_key_file=~/.ssh/ansible
+34.244.41.194 ansible_user=ubuntu ansible_ssh_private_key_file=~/.ssh/ansible
